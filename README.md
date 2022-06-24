@@ -15,6 +15,7 @@ wide:
 ## Meta
 
 Icons provided by [pixel-perfect](https://www.flaticon.com/authors/pixel-perfect)
+
 Minimum Chrome version: 88
 
 ## License
